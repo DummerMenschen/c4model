@@ -1,10 +1,10 @@
 @startuml c4-core
 
-!includeurl https://github.com/DummerMenschen/c4model/blob/master/master/core.puml
+!includeurl https://raw.githubusercontent.com/DummerMenschen/c4model/master/core.puml
 ' uncomment the following line and comment the first to use locally
 '!include core.puml
 
-!includeurl https://github.com/DummerMenschen/c4model/blob/master/c4_theme.puml
+!includeurl https://raw.githubusercontent.com/DummerMenschen/c4model/master/c4_theme.puml
 ' uncomment the following line and comment the first to use locally
 '!include c4_theme.puml
 
