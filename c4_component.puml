@@ -1,5 +1,5 @@
 @startuml c4_component
-!includeurl https://github.com/DummerMenschen/c4model/blob/master/c4_container.puml
+!includeurl https://raw.githubusercontent.com/DummerMenschen/c4model/master/c4_context.puml
 ' uncomment the following line and comment the first to use locally
 '!include c4_container.puml
 
